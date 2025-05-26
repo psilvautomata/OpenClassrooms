@@ -14,9 +14,3 @@ This repository contains the Python courses I am following from OpenClassrooms, 
 - VSCode installed with the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
 - Git installed for cloning this repository (optional).
 
-## How to Use
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/psilvautomata/OpenClassrooms.git
